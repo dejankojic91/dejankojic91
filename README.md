@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dejan Kojic  
 
-💻 **Senior Frontend Engineer** with **9+ years** of experience building **scalable, high-performance web & mobile applications**.  
+💻 **Senior Software Engineer** with **9+ years** of experience building **scalable, high-performance web & mobile applications**.  
 🔹 Passionate about **frontend development, performance optimization, and crafting seamless user experiences**.  
 🎯 Focused on **React.js, Next.js, TypeScript, and modern frontend architectures**.  
 💡 I love **mentoring developers, contributing to open-source projects, and working on innovative solutions**.  
