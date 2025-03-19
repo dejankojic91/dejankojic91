@@ -1,15 +1,40 @@
 # 👋 Hi, I'm Dejan Kojic  
-💻 **Senior Software Engineer** with 9+ years of experience specializing in **React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, and scalable web & mobile applications**.
 
-🚀 Passionate about **building seamless user experiences, optimizing frontend performance, and mentoring developers**.  
-⚡ Skilled in **state management (Redux, Zustand, TanStack Query), API integrations (REST, GraphQL, WebSockets), and CI/CD pipelines**.  
+💻 **Senior Frontend Engineer** with **9+ years** of experience building **scalable, high-performance web & mobile applications**.  
+🔹 Passionate about **frontend development, performance optimization, and crafting seamless user experiences**.  
+🎯 Focused on **React.js, Next.js, TypeScript, and modern frontend architectures**.  
+💡 I love **mentoring developers, contributing to open-source projects, and working on innovative solutions**.  
 
-## 🌟 Technologies I Work With  
-- **Frontend:** React.js, Next.js, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS  
+---
+
+## 🛠️ Technologies & Tools  
+
+### **Frontend Development**  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Sass, Tailwind)  
+- **Frameworks & Libraries:** React.js, Next.js, React Native, Angular  
 - **State Management:** Redux, Zustand, TanStack Query  
-- **Backend:** Node.js, Express.js, Firebase, WebSockets  
-- **DevOps & Tools:** GitHub Actions, Webpack, Vite, Docker  
 
-## 📫 Get in Touch  
-💼 [LinkedIn](https://www.linkedin.com/in/dejan-kojic-19516a313/)  
-📧 Email: dejankojic10@gmail.com  
+### **Backend & APIs**  
+- **Technologies:** Node.js, Express.js, Firebase  
+- **API Integration:** REST, GraphQL, WebSockets, Axios  
+
+### **DevOps & Tooling**  
+- **Build Tools:** Webpack, Vite  
+- **CI/CD:** GitHub Actions, Docker  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 📫 Let's Connect!  
+💼 **LinkedIn:** [linkedin.com/in/dejan-kojic-19516a313](https://www.linkedin.com/in/dejan-kojic-19516a313/)  
+📧 **Email:** dejankojic10@gmail.com   
+
+---
+
+### **🚀 Fun Fact About Me**  
+✨ I'm always exploring **new web technologies, AI, and automation tools** to stay ahead in the tech world!  
+👀 I’m open to **collaborations, open-source contributions, and exciting projects**.  
+
+---
+
+🎯 **Want to work together or collaborate on a project? Feel free to reach out!** 🚀  
