@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Dejan Kojic  
+💻 **Senior Software Engineer** with 9+ years of experience specializing in **React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, and scalable web & mobile applications**.
 
-<!--
-**dejankojic91/dejankojic91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **building seamless user experiences, optimizing frontend performance, and mentoring developers**.  
+⚡ Skilled in **state management (Redux, Zustand, TanStack Query), API integrations (REST, GraphQL, WebSockets), and CI/CD pipelines**.  
 
-Here are some ideas to get you started:
+## 🌟 Technologies I Work With  
+- **Frontend:** React.js, Next.js, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS  
+- **State Management:** Redux, Zustand, TanStack Query  
+- **Backend:** Node.js, Express.js, Firebase, WebSockets  
+- **DevOps & Tools:** GitHub Actions, Webpack, Vite, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch  
+💼 [LinkedIn](https://www.linkedin.com/in/dejan-kojic-19516a313/)  
+📧 Email: dejankojic10@gmail.com  
